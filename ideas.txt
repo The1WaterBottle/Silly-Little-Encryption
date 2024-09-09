@@ -1,0 +1,1 @@
+1. when password is same as a string found in the text it wont be converted because the avg is the number from the letters it self
